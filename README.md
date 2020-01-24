@@ -5,7 +5,7 @@ Provides a command-line interface to the [passwords](https://crates.io/crates/pa
 
 ## Building from source (dev)
 
-1. Clone the repository 
+1. Clone it
 ```shell
 $ git clone https://github.com/rhgrieve/pwutils.git
 $ cd pwutils
