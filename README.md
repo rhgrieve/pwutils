@@ -57,3 +57,9 @@ FLAGS:
 ARGS:
     <password>
 ```
+
+## TODO
+
+- [ ] Saving hashed passwords
+- [ ] Share password as secret
+- [ ] Modify password rules as optional parameters
