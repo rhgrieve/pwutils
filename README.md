@@ -1,6 +1,7 @@
 # pwutils
 
-A collection of password utilities.
+A collection of password utilities.  
+Provides a command-line interface to the [passwords](https://crates.io/crates/passwords) crate by [magiclen](https://github.com/magiclen)
 
 ## Building from source (dev)
 
